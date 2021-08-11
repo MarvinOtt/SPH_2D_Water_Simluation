@@ -3,7 +3,8 @@
 __Project creation date:__ 23.05.2018
 
 ## Description
-This project simulates fluids in 2D with a particle-based viscoelastic simulation.
+This project simulates fluids in 2D with a particle-based viscoelastic simulation.\
+The fluid simulation is executed on the GPU with OpenCL for better performance.
 
 ## Technologies
 * C#
